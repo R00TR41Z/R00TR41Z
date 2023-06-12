@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dotanin Justino
+- 👋 Hi, I’m Dotany Justino
 - 👀 I’m interested in programming ,computer network and technologies
 - 🌱 I’m currently Laravel , Vuejs, ElectornJs and Java
 - 📫 How to reach me rootraiz.dev@gmail.com
