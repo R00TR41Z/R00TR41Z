@@ -9,6 +9,6 @@ $profile = Developer::create([
   "name"=>"Dotanin Justino",
   "email"=>"rootraiz.dev@gmail.com",
   "Linkedin"=>"RootRaiz",
-  "Skills"=>"HTML & CSS(Bootstrap , FontAwesome) - JS( Jquery, Vuejs )- PHP( Laravel, Lumen)"
+  "Skills"=>"HTML & CSS(Bootstrap , FontAwesome) - JS( Jquery, Vuejs )- PHP( Laravel, Lumen,Livewire)"
 ]);
 ```
